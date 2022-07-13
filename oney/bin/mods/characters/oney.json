@@ -1,0 +1,150 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "oney left"
+		},
+		{
+			"offsets": [
+				-21,
+				-138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "oney down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "oney idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "oney up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "oney idle",
+			"indices": [
+				16,
+				17
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-90
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "oney left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				21,
+				-9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "oney up"
+		},
+		{
+			"offsets": [
+				-21,
+				-138
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				6,
+				7
+			],
+			"name": "oney down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "oney right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-71,
+				-18
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "oney right",
+			"indices": [
+				10,
+				11
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oney",
+	"position": [
+		-270,
+		40
+	],
+	"healthicon": "oney",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		230,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

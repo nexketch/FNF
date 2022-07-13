@@ -1,0 +1,32 @@
+{
+	"storyName": "Chris, what would you do if you were funkin",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "oney",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Whores",
+			"oney",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Oney",
+	"hiddenUntilUnlocked": false
+}
